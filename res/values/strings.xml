@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TFT Baby Saver</string>
+    <string name="action_settings">Settings</string>
+    <string name="connect_with_device_dialog_title">Connect with this device?</string>
+    <string name="baby_on_board_connection_service_name">Baby On Board BT Connection</string>
+
+</resources>
